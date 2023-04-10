@@ -1,0 +1,7 @@
+What data of yours do we store?:
+⦁ Discord User ID
+⦁ Last used Discord username
+⦁ Servers you've used the bot
+⦁ The last message you sent a command in every server
+
+Your data will be removed upon request.
